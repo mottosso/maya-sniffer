@@ -1,12 +1,8 @@
-![sniffselect](https://user-images.githubusercontent.com/2152766/104090255-8159f000-526d-11eb-87ee-f46fbe261326.gif)
-
-### Maya Sniffer
+<img width=322 src=https://user-images.githubusercontent.com/2152766/104091011-7a81ac00-5272-11eb-9bf3-7bf3454f789f.png>
 
 <img src=https://img.shields.io/badge/Maya-2015--2020-green> <img src=https://img.shields.io/badge/Python%20API-2.7%20%7C%203.9-steelblue>
 
 Ever wondered which nodes are responsible for that 600 mb+ Maya scene file?
-
-Use [Treemapping](https://en.wikipedia.org/wiki/Treemapping) visualisation to find the most bloated nodes in the current scene or scene on disk.
 
 **Features**
 
@@ -29,6 +25,8 @@ Use [Treemapping](https://en.wikipedia.org/wiki/Treemapping) visualisation to fi
 - [ ] **Visualise plug-ins** Spot and kill viruses like Turtle on-sight, with one click
 
 Pull-requests are welcome.
+
+![sniffselect](https://user-images.githubusercontent.com/2152766/104090255-8159f000-526d-11eb-87ee-f46fbe261326.gif)
 
 <br>
 
