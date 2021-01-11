@@ -28,6 +28,7 @@ Ever wondered which nodes are responsible for that 600 mb+ Maya scene file?
 - [ ] **Heatmap** Click button to put a surface shader on all renderable geometry, color all curves, with red being large, black being small. To demonstrate interactively in 3d where size comes from.
 - [ ] **Visualise Connections** These are currently ignored, but sometimes occupy >30% of the file. Include these, somehow..
 - [ ] **Visualise Maya Preferences** These are sometimes stored with the scene file, can get large, but aren't part of any node (?)
+- [ ] **Responsive UI during parse** Parse in a thread, and let the user know about progress. It's plain-old line-by-line reading, so we can get a pretty accurate percentage out of it.
 
 Pull-requests are welcome.
 
