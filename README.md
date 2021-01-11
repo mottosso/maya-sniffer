@@ -23,6 +23,9 @@ Ever wondered which nodes are responsible for that 600 mb+ Maya scene file?
 - [ ] **More metadata** Hovering takes a while since it's a tooltip. Would be good having not only a faster and more visible popup, but also the full path (rather than just the name) along with parent, number of children, number of attributes, number of connections etc. To help make the decision to kill easier
 - [ ] **Click to kill** Modify the file directly, by removing any offending nodes you know aren't used or necessary.
 - [ ] **Visualise plug-ins** Spot and kill viruses like Turtle on-sight, with one click
+- [ ] **Live Refresh** Just a button to refresh current scene without re-launching the UI
+- [ ] **Density Graph** Just a graph, one point per node, sorted by size. It'll show whether size comes from a few dense nodes, or lots of smaller ones.
+- [ ] **Heatmap** Click button to put a surface shader on all renderable geometry, color all curves, with red being large, black being small. To demonstrate interactively in 3d where size comes from.
 
 Pull-requests are welcome.
 
