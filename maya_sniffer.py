@@ -313,7 +313,7 @@ class Widget(QtWidgets.QDialog):
             if button and isinstance(button, QtWidgets.QLabel):
                 name = button.objectName()
 
-                clipboard = QtWidgets.qApp.clipboard()
+                clipboard = QtWidgets.QApplication.clipboard()
                 clipboard.setText(name)
 
                 self.clicked.emit(name)
